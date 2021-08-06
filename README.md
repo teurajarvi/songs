@@ -26,5 +26,7 @@ from browser: localhost:3000
 # How the React-Redux project was initially created
 
 > npx create-react-app songs
+
 > cd songs
+
 > npm install --save redux react-redux
