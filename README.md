@@ -1,6 +1,6 @@
 # songs
 
-React - Redux App to display information about few songs.
+React - Redux App to display few buttons and by clicking those, more information about the songs are displayed.
 
 # Clone the project using Git
 
